@@ -1,11 +1,11 @@
 import React from "react";
 import { Typography } from "@material-tailwind/react";
-import Doc1 from "../assets/doc1.JPG";
-import Doc2 from "../assets/doc2.JPG";
-import Doc4 from "../assets/doc4.JPG";
-import Doc5 from "../assets/doc5.JPG";
-import Doc6 from "../assets/doc6.JPG";
-import Doc7 from "../assets/doc7.JPG";
+import Doc1 from "../assets/doc1.jpg";
+import Doc2 from "../assets/doc2.jpg";
+import Doc4 from "../assets/doc4.jpg";
+import Doc5 from "../assets/doc5.jpg";
+import Doc6 from "../assets/doc6.jpg";
+import Doc7 from "../assets/doc7.jpg";
 import Doc8 from "../assets/doc8.jpg";
 
 import Navigation from "../components/navbar";
