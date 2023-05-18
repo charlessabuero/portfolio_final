@@ -1,20 +1,5 @@
 import React from "react";
-import {
-  Typography,
-  Timeline,
-  TimelineItem,
-  TimelineConnector,
-  TimelineHeader,
-  TimelineIcon,
-  TimelineBody,
-} from "@material-tailwind/react";
-import { CodeBracketIcon, QueueListIcon } from "@heroicons/react/24/solid";
-import MyPic from "../assets/charles.png";
-import { CgWebsite } from "react-icons/Cg";
-import { GrMultimedia } from "react-icons/Gr";
-import { GoProject } from "react-icons/Go";
-import { BiBookContent } from "react-icons/Bi";
-import { FaOldRepublic } from "react-icons/Fa";
+import { Typography } from "@material-tailwind/react";
 import Navigation from "../components/navbar";
 import Footer from "../components/footer";
 

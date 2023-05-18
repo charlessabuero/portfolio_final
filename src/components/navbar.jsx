@@ -1,5 +1,5 @@
 import React from "react";
-import { Typography, Navbar, MobileNav, Button, IconButton } from "@material-tailwind/react";
+import { Typography, Navbar, MobileNav, IconButton } from "@material-tailwind/react";
 import { Link } from 'react-router-dom';
 
 export default function nav() {

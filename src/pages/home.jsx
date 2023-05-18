@@ -10,11 +10,11 @@ import {
 } from "@material-tailwind/react";
 import { CodeBracketIcon, QueueListIcon } from "@heroicons/react/24/solid";
 import MyPic from "../assets/charles.png";
-import { CgWebsite } from "react-icons/Cg";
-import { GrMultimedia } from "react-icons/Gr";
-import { GoProject } from "react-icons/Go";
-import { BiBookContent } from "react-icons/Bi";
-import { FaOldRepublic } from "react-icons/Fa";
+import { CgWebsite } from "react-icons/cg";
+import { GrMultimedia } from "react-icons/gr";
+import { GoProject } from "react-icons/go";
+import { BiBookContent } from "react-icons/bi";
+import { FaOldRepublic } from "react-icons/fa";
 import Navigation from "../components/navbar";
 import Footer from "../components/footer";
 

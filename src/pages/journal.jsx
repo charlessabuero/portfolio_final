@@ -1,13 +1,5 @@
 import React from "react";
-import {
-  Typography,
-  Timeline,
-  TimelineItem,
-  TimelineConnector,
-  TimelineHeader,
-  TimelineIcon,
-  TimelineBody,
-} from "@material-tailwind/react";
+import { Typography } from "@material-tailwind/react";
 import Doc1 from "../assets/doc1.JPG";
 import Doc2 from "../assets/doc2.JPG";
 import Doc4 from "../assets/doc4.JPG";

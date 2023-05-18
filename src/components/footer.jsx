@@ -1,6 +1,6 @@
 import React from "react";
 import { Typography } from "@material-tailwind/react";
-import { FaFacebook, FaInstagramSquare, FaLinkedin } from "react-icons/Fa";
+import { FaFacebook, FaInstagramSquare, FaLinkedin } from "react-icons/fa";
 
 export default function footer() {
 
